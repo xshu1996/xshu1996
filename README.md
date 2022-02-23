@@ -1,6 +1,6 @@
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-<h3 title="hehehe"> Hey 👋, I'm xhsu!</h3>
+<h3 title="hehehe"> Hey 👋, I'm xshu!</h3>
 
 Hi there, I'm **xshu**.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
