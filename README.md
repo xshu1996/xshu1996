@@ -1,11 +1,11 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3 title="hehehe"> Hey 👋, I'm xshu!</h3>
 
 Hi there, I'm **xshu**.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
+ <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@xshu1996](https://github.com/xshu1996), and a game client programmer 👨🏽‍💼.  -->
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
 
 **About Me!**
 
